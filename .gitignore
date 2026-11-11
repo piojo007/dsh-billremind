@@ -3,6 +3,7 @@ state.json
 *.lock
 *.tmp
 *.backup.json
+*.tgz
 .env
 coverage/
 .DS_Store
